@@ -151,7 +151,7 @@ The tests (resolution rule + the Lead Intelligence/ICP contract) are determinist
 
 ## Design decisions
 
-The reasoning behind the cost-of-wrong asymmetry, the ICP scoring (including the Egypt location weighting), the confidence-to-action thresholds, the debate/resolution design, what I'd build with two more weeks, and where it breaks at scale is in [`DESIGN_NOTE.md`](DESIGN_NOTE.md).
+The reasoning behind the cost-of-wrong asymmetry, the ICP scoring (including the Egypt location weighting), the confidence-to-action thresholds, the debate/resolution design, what I'd build with two more weeks, and where it breaks at scale is in [`DESIGN_NOTE.pdf`](DESIGN_NOTE.pdf).
 
 ## Notes
 
