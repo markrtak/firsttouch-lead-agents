@@ -1,6 +1,6 @@
 # FirstTouch - Inbound Lead Triage Agent Team
 
-_by Mark Takla · Sircles AI Agentic Engineer take-home_
+_by Mark Takla_
 
 A believable team of AI agents that takes a raw inbound lead, enriches it, **debates** whether to pursue it, resolves the debate with an explicit rule, and (if pursued) drafts outreach and writes a clean CRM record - with a full, readable trace of who said what and why. No human in the loop on the happy path; a human is pulled in only when it genuinely matters.
 
