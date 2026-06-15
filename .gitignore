@@ -1,0 +1,40 @@
+# ---- Secrets (NEVER commit) ----
+.env
+*.key
+
+# ---- Virtual environments ----
+.venv/
+venv/
+env/
+ENV/
+
+# ---- Python caches / build ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- Jupyter ----
+.ipynb_checkpoints/
+executed.ipynb
+
+# ---- OS / editor junk ----
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# ---- Demo video (shared via Drive link, not committed) ----
+*.mp4
+*.mov
+*.webm
+*.mkv
+
+# ---- Not part of the submission ----
+Sircles_AI_Agentic_Engineer_TakeHome_Summary.pdf   
+SIRCLES_CONTEXT.md                                  
+DESIGN_NOTE.md                                     

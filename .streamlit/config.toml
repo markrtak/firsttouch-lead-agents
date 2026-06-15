@@ -1,0 +1,14 @@
+[theme]
+base = "dark"
+primaryColor = "#EC008C"
+backgroundColor = "#0B0B0D"
+secondaryBackgroundColor = "#17171B"
+textColor = "#FFFFFF"
+font = "sans serif"
+
+[server]
+headless = true
+
+[client]
+# Hide the "Deploy" button + dev toolbar; this is a local submission, not a hosted app.
+toolbarMode = "minimal"
